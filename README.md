@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wangzhuo1024
 - 👀 I’m interested in web
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++
 - 📫 Reach me at 3172359454@qq.com or wz20100519@outlook.com :)
 
 <!---
